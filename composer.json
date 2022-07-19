@@ -25,18 +25,6 @@
         "prettus/l5-repository": "^2.7.9",
         "webklex/php-imap": "^2.2.5"
     },
-    "require-dev": {
-        "barryvdh/laravel-debugbar": "^3.6",
-        "facade/ignition": "^2.5",
-        "fakerphp/faker": "^1.9.1",
-        "krayin/krayin-package-generator": "dev-master",
-        "laravel/sail": "^1.0.1",
-        "mockery/mockery": "^1.4.2",
-        "nunomaduro/collision": "^5.0",
-        "pestphp/pest": "^1.21",
-        "pestphp/pest-plugin-laravel": "^1.1",
-        "phpunit/phpunit": "^9.3.3"
-    },
     "config": {
         "optimize-autoloader": true,
         "preferred-install": "dist",
